@@ -32,4 +32,4 @@ Este proyecto es un portfolio personal diseñado para mostrar mis habilidades, e
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/portfolio.git
+   git clone https://github.com/AnaMartinezSanjuan/portfolio.git
